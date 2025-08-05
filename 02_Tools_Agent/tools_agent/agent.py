@@ -26,8 +26,8 @@ root_agent = Agent(
     description="adding up tools to the agents",
     instruction="""
     you are a helpful agent that can use tools to assist with tasks:
-    google_search: use this tool to search the web for information.
+    get the current time, date, and timezone using the get_current_time tool.
     """,
 
-    tools=[google_search],
+    tools=[get_current_time],
 )
