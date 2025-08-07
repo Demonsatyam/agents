@@ -17,3 +17,9 @@ In this repository, we will be learning how to **build intelligent agents**, sta
 ## 📁 Repository Structure
 
 Each folder is organized by topic/lesson level:
+/01_basics/ → Simple agents and core concepts
+/02_tools/ -> Adding tools to our agent
+/03_litellm/ -> using litellm (free library that handles different complexities provided by OpenAI, Claude, Gemini, etc) and openRouter
+/04_structured/ -> storing response in given structure
+/05_sessions/ -> learn, what is session, its components and how create session, and store it in memory using InMemorySessionService().
+/06_persistent_storage/ -> learn how store session into a database using DatabaseSessionService()
