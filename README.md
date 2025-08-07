@@ -25,3 +25,24 @@ Each folder is organized by topic/lesson level:
 - `/04_structured/` → Storing response in a given structure  
 - `/05_sessions/` → Learn what a session is, its components, and how to create a session and store it in memory using `InMemorySessionService()`  
 - `/06_persistent_storage/` → Learn how to store sessions into a database using `DatabaseSessionService()`  
+
+
+
+## 👨‍💻 Requirements
+
+- Python 3.8+
+- Virtual environment setup
+- Other dependencies are listed in `requirements.txt`
+
+## 📚 Who Is This For?
+
+This repository is for:
+- Developers curious about building agent-based systems
+- Students learning AI, automation, or intelligent systems
+- Anyone interested in exploring how tools like LangGraph, OpenAI Agents, or custom frameworks work
+
+---
+
+Stay tuned and keep learning. Contributions and feedback are welcome!
+
+---
